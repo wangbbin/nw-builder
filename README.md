@@ -2,8 +2,9 @@
 
 [![NPM](https://nodei.co/npm/nw-builder.png?downloads=true)](https://nodei.co/npm/nw-builder/)
 
-> Build your [NW.js](https://github.com/nwjs/nw.js) apps for Mac, Win and Linux programmatically or via CLI.
+Nice builder for node webkit, Library now is working with rcedit to modify exe version info which fork from https://github.com/nwjs-community/nw-builder
 
+> Build your [NW.js](https://github.com/nwjs/nw.js) apps for Mac, Win and Linux programmatically or via CLI.
 
 ### Installation
 
